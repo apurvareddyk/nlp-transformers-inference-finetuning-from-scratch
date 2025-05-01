@@ -1,4 +1,4 @@
-# Assignment 9: Transformer-Based Sentiment Analysis on IMDB
+# Transformer-Based Sentiment Analysis on IMDB
 
 This repository contains three Colab notebooks exploring different approaches to sentiment analysis using transformer architectures and NLP tools in TensorFlow, Keras, and KerasNLP. The project covers the full spectrum: using a pretrained model for quick inference, fine-tuning a backbone for improved accuracy, and building a transformer from scratch for deep understanding.
 
