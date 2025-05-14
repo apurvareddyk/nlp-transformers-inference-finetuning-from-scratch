@@ -91,7 +91,7 @@ This is ideal for anyone learning how transformer internals are constructed and 
 
 Watch the full video walkthrough for all three notebooks, including explanations and debug traces:
 
-**Playlist:** [Transformer Sentiment Analysis on IMDB - YouTube](https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID_HERE)
+**Video:** [Transformer Sentiment Analysis on IMDB - YouTube](https://youtu.be/8G8nNuNe2zM)
 
 ---
 
